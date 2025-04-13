@@ -20,11 +20,11 @@ python -m venv deepguard_env
 ```
 
 ### 4. Activate the Virtual Environment
-#### 4.1 On Windows:
+##### 4.1 On Windows:
 ```bash
 deepguard_env\Scripts\activate
 ```
-#### 4.2 On Linux/macOS:
+##### 4.2 On Linux/macOS:
 ```bash
 source deepguard_env/bin/activate
 ```
