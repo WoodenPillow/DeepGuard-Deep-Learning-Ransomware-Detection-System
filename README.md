@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ### 6. Launch the GUI Dashboard
 ```bash
-streamlit run GUI.py
+streamlit run Home.py
 ```
 
 ### 7. Deactivate the Virtual Environment
