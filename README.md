@@ -6,12 +6,12 @@ A hybrid ransomware detection system using classical machine learning and deep l
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/WoodenPillow/DeepGuard-Hybrid-Ransomware-Detection-System.git
+git clone https://github.com/WoodenPillow/DeepGuard-Deep-Learning-Ransomware-Detection-System.git
 ```
 
 ### 2. Go to Deployment Folder
 ```bash
-cd DeepGuard-Hybrid-Ransomware-Detection-System/Deployment
+cd DeepGuard-Deep-Learning-Ransomware-Detection-System/Deployment
 ```
 
 ### 3. Create a Virtual Environment
